@@ -1,4 +1,4 @@
-//
+ //
 //  APICaller.swift
 //  Netflix
 //
@@ -10,9 +10,9 @@ import Foundation
 
 
 struct Constants {
-    static let API_KEY = "9dc9891a8f29991e16f78684ad90a27c"
+    static let API_KEY = ""
     static let baseURL = "https://api.themoviedb.org"
-    static let YOUTUBE_API_KEY = "AIzaSyAHLdSYQx96760SxRINn_Zz1tIC34upJiU"
+    static let YOUTUBE_API_KEY = ""
     static let youtubeBaseURL = "https://youtube.googleapis.com/youtube/v3/search?"
 }
 
